@@ -12,7 +12,8 @@ Este projeto utiliza a placa BitDogLab com um microcontrolador RP2040 integrado 
 
 ## Demonstração (VÍDEO)
 
-[Vídeo de Demonstração](https://youtube.com/shorts/hlZhHR4Ap8o)
+[Vídeo Demonstração](https://youtube.com/shorts/pPqVZA0dMvM)
+[Vídeo Explicação](https://youtube.com/shorts/hlZhHR4Ap8o)
 
 ## Como compilar e executar
 
