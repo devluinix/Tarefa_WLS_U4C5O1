@@ -1,4 +1,4 @@
-# Controle de Matriz de LEDs 5x5 WS2812 com Botões
+# Controle de Semaforo usando Timer
 
 ## Descrição
 
